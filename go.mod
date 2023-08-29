@@ -5,7 +5,7 @@ go 1.12
 require (
 	github.com/PuerkitoBio/ghost v0.0.0-20160324114900-206e6e460e14
 	github.com/VojtechVitek/ratelimit v0.0.0-20160722140851-dc172bc0f6d2
-	github.com/aws/aws-sdk-go v1.20.6
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/dutchcoders/go-clamd v0.0.0-20170520113014-b970184f4d9e
 	github.com/dutchcoders/go-virustotal v0.0.0-20140923143438-24cc8e6fa329
 	github.com/dutchcoders/transfer.sh-web v0.0.0-20190716184912-96e06a2276ba
@@ -23,10 +23,9 @@ require (
 	github.com/nu7hatch/gouuid v0.0.0-20131221200532-179d4d0c4d8d // indirect
 	github.com/shurcooL/sanitized_anchor_name v1.0.0 // indirect
 	github.com/skip2/go-qrcode v0.0.0-20190110000554-dc11ecdae0a9
-	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	golang.org/x/crypto v0.0.0-20190510104115-cbcb75029529
-	golang.org/x/net v0.0.0-20190509222800-a4d6f7feada5
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	google.golang.org/api v0.5.0
 	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127
